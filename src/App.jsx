@@ -1,11 +1,10 @@
-import { Container } from "react-bootstrap";
-import Card from "./components/Card";
+import CardC from "./components/CardC";
 import "./css/App.css"
 
 function App() {
 
   return (
-      <Card/>
+      <CardC/>
   );
 }
 
